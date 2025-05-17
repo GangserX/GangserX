@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI Enthusiast | Web Developer | Flutter Learner | Hackathon Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Welcome+to+my+GitHub!;Passionate+about+tech+%26+learning;Let%E2%80%99s+build+cool+things+together+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Welcome+to+my+GitHub!;Let%E2%80%99s+build+cool+things+together+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
