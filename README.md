@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm GangserX</h1>
 <h3 align="center">🚀 Exploring the world of Computer Science</h3>
 
