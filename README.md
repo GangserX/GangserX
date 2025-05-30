@@ -11,7 +11,6 @@
 - 🎓 BTech CSE (AIML)
 - 🧠 Working on an **AI-powered mental health chatbot**
 - 💻 Exploring **Flutter**, **React**, **Node.js**, and **MongoDB**
-- 🚀 Participated in **Hack4Bengal**, **36hr Hackathons**, etc.
 - 🧪 Love combining AI, UI/UX, and web tech
 
 ---
